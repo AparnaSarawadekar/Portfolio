@@ -1,7 +1,3 @@
-<h2>Demo</h2>
-<img src="/.github/portfolio.gif">
-
----
 
 ## Highlights
 
@@ -12,12 +8,6 @@
 - **SEO** Appears as 1st or 2nd result when searching Aparna Sarawadekar on duckduckgo and bing, 1st or 2nd page on google.
 - **Responsive** for all screen sizes
 - Animations added using **react-spring** and **framer-motion**
-
----
-
-## Lighthouse performance
-
-<img src="/public/project/portfolio/main.png" alt="lighthouse performance">
 
 ---
 
