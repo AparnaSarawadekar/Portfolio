@@ -6,5 +6,15 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+<url>
+  <loc>https://portfolio-three-ruby-37.vercel.app/</loc>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://portfolio-three-ruby-37.vercel.app/</loc>
+  <priority>0.80</priority>
+</url>
+
+
 
 </urlset>

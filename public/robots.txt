@@ -1,0 +1,6 @@
+Sitemap: https://portfolio-three-ruby-37.vercel.app/sitemap.xml
+
+User-agent: *
+Allow: /*
+
+Disallow: /api/*
